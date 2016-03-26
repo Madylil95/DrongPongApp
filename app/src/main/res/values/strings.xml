@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">The DrongPong</string>
+    <string name="WelcomeText">Welcome to Drone Pong</string>
+    <string name="Player1">PLAYER 1</string>
+    <string name="Player2">PLAYER 2</string>
+    <string name="Play">PLAY</string>
+    <string name="Stop">STOP</string>
+    <string name="Reset">RESET</string>
+
+</resources>
